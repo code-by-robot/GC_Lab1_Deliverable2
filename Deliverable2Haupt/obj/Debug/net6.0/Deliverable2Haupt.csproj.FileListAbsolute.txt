@@ -1,0 +1,15 @@
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\obj\Debug\net6.0\Deliverable2Haupt.csproj.AssemblyReference.cache
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\obj\Debug\net6.0\Deliverable2Haupt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\obj\Debug\net6.0\Deliverable2Haupt.AssemblyInfoInputs.cache
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\obj\Debug\net6.0\Deliverable2Haupt.AssemblyInfo.cs
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\obj\Debug\net6.0\Deliverable2Haupt.csproj.CoreCompileInputs.cache
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\bin\Debug\net6.0\Deliverable2Haupt.exe
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\bin\Debug\net6.0\Deliverable2Haupt.deps.json
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\bin\Debug\net6.0\Deliverable2Haupt.runtimeconfig.json
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\bin\Debug\net6.0\Deliverable2Haupt.dll
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\bin\Debug\net6.0\Deliverable2Haupt.pdb
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\obj\Debug\net6.0\Deliverable2Haupt.dll
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\obj\Debug\net6.0\refint\Deliverable2Haupt.dll
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\obj\Debug\net6.0\Deliverable2Haupt.pdb
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\obj\Debug\net6.0\Deliverable2Haupt.genruntimeconfig.cache
+C:\Users\Rob\source\repos\Deliverable2Haupt\Deliverable2Haupt\obj\Debug\net6.0\ref\Deliverable2Haupt.dll
